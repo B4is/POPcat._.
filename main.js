@@ -1,3 +1,4 @@
+
 const popcat = document.querySelector("#popcat");
 const btn = document.querySelector("#btn");
 
@@ -5,7 +6,7 @@ const btn = document.querySelector("#btn");
 const openMouthImg = "./images/open.png";
 const closeMouthImg = "./images/close.png";
 
-// The two Popping sounds
+
 const openMouthSound = new Audio("./sound/sound-open.mp3");
 const closeMouthSound = new Audio("./sound/sound-close.mp3");
 
